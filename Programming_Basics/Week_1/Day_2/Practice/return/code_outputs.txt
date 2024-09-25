@@ -1,0 +1,66 @@
+
+Code 1 
+	output : hello
+		 Dojo
+
+
+code 2 
+	output 
+		hello
+		result is 15
+
+
+code 3
+	output
+		num is 3
+		result is 18
+
+code 4
+	output
+		15
+		10
+		10
+		15
+
+
+code 5
+	output
+		15
+		10
+		20
+		15
+
+code 6
+	output
+		num is 3
+		num is 5
+		result is 16
+
+code 7
+	output
+		5
+		8
+
+code 8
+	output 
+		2
+		5
+		3
+		8
+code 9
+	output
+		sum is 5
+		sum is 8
+		result is 13
+
+code 10
+	output
+		sum is 5
+		sum is 3
+		sum is 6
+		sum is 3
+		sum is 5
+		sum is 8
+		result is 19
+		
+		
